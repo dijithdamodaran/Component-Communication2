@@ -7,4 +7,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'nested-component-communication-demo2';
+  
+   
 }
